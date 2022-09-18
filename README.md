@@ -13,3 +13,4 @@
 ### 🛠️ Tools & Technologies
 <div style="display: flex;">
   <a href="https://www.getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="postgresql" width="40" height="40"/></a>
