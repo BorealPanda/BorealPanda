@@ -1,4 +1,3 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/BorealPanda/BorealPanda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/BorealPanda/BorealPanda/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ## 💻 My Tech Stack
 ### 🛠️ Languages
 <div style="display: flex;">
@@ -18,3 +17,6 @@
   <a href="https://www.getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="postgresql" width="40" height="40"/></a>
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/BorealPanda/BorealPanda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/BorealPanda/BorealPanda/output/github-contribution-grid-snake.svg#gh-light-mode-only)
